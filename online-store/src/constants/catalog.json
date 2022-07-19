@@ -1,0 +1,283 @@
+
+[
+	{
+		"id": "el1",
+		"name": "Lada kalina",
+		"img": "https://i.ibb.co/mH2x9Gd/snyatieustanovka-zadnego-kolesa.jpg",
+		"price": 1250,
+		"color": "black",
+		"age": 1992, 
+		"brand": "Minsk",
+		"amt": 2,
+		"type": "tourism",
+		"popular": "no"
+	},
+	{
+		"id": "el2",
+		"name": "Aprilia RSV4 RR",
+		"img": "https://i.ibb.co/vVw9TwF/Aprilia-RSV4-RR.jpg",
+		"brand": "Aprilia",
+		"price": 7000,
+		"color": "red",
+		"age": 2013,
+		"amt": 8,
+		"type": "sport",
+		"popular": "yes"
+	},
+	{
+		"id": "el3",
+		"name": "Ducati R r18 first",
+		"img": "https://i.ibb.co/1mng6yW/BMW-R-r18-first-edition.jpg",
+		"brand": "Ducati",
+		"price": 12000,
+		"color": "black",
+		"age": 2020,
+		"amt": 5,
+		"type": "chopper"
+	},
+	{
+		"id": "el4",
+		"name": "Ducati Diavel",
+		"img": "https://i.ibb.co/pZksfCg/Ducati-Diavel.jpg",
+		"price": 15000,
+		"brand": "Ducati",
+		"color": "black",
+		"age": 2022,
+		"amt": 7,
+		"type": "street",
+		"popular": "no"
+	},
+	{
+		"id": "el5",
+		"name": "Ducati Monster 821",
+		"img": "https://i.ibb.co/C0v3k5F/Ducati-Monster-821.jpg",
+		"price": 18000,
+		"brand": "Ducati",
+		"color": "red",
+		"age": 2018,
+		"amt": 1,
+		"type": "street",
+		"popular": "no"
+	},
+	{
+		"id": "el6",
+		"name": "Harley Davidson Sportster XL",
+		"img": "https://i.ibb.co/3mJ177G/Harley-Davidson-Sportster-XL.jpg",
+		"price": 10000,
+		"brand": "Harley-Davidson",
+		"color": "black",
+		"age": 2015,
+		"amt": 4,
+		"type": "chopper",
+		"popular": "no"
+	},
+	{ 
+		"id": "el7",
+		"name": "Harley Davidson Street Glid",
+		"img": "https://i.ibb.co/zZz3nQh/Harley-Davidson-Street-Glid.jpg",
+		"price": 21000,
+		"brand": "Harley-Davidson",
+		"color": "black",
+		"age": 2015,
+		"amt": 7,
+		"type": "tourism",
+		"popular": "no"
+	},
+	{ 
+		"id": "el8",
+		"name": "Harley Davidson Street xg500",
+		"img": "https://i.ibb.co/0j7cd3w/Harley-Davidson-Street-xg500.jpg",
+		"price": 28000,
+		"brand": "Harley-Davidson",
+		"color": "black",
+		"age": 2010,
+		"amt": 13,
+		"type": "chopper",
+		"popular": "no"
+	},
+	{ 
+		"id": "el9",
+		"name": "Harley Davidson V Rod Vrsca",
+		"img": "https://i.ibb.co/z6pC3CJ/Harley-Davidson-V-Rod-Vrsca.jpg",
+		"price": 36000,
+		"brand": "Harley-Davidson",
+		"color": "black",
+		"age": 2016,
+		"amt": 1,
+		"type": "chopper",
+		"popular": "no"
+
+		
+	},
+	{  
+		"id": "el10",
+		"name": "Honda CMX 300 Rebel",
+		"img": "https://i.ibb.co/Vv3VJb6/Honda-CMX-300-Rebel.jpg",
+		"price": 3000,
+		"brand": "Honda",
+		"color": "red",
+		"age": 2005,
+		"amt": 16,
+		"type": "street",
+		"popular": "no"
+
+	},
+	{  
+		"id": "el11",
+		"name": "Honda VT Shadow",
+		"img": "https://i.ibb.co/y5Mb2gS/Honda-VT-Shadow.jpg",
+		"price": 6000,
+		"brand": "Honda",
+		"color": "black",
+		"age": 1999,
+		"amt": 14,
+		"type": "tourism",
+		"popular": "yes"
+
+	},
+	{  
+		"id": "el12",
+		"name": "Honda VT SHADOW 1998",
+		"img": "https://i.ibb.co/Jmzv1Pw/Honda-VT-SHADOW-1998.jpg",
+		"price": 9300,
+		"brand": "Honda",
+		"color": "black",
+		"age": 1998,
+		"amt": 4,
+		"type": "chopper",
+		"popular": "no"
+
+	},
+	{  
+		"id": "el13",
+		"name": "honda x11",
+		"img": "https://i.ibb.co/P4WtKYN/honda-x11.webp",
+		"price": 4300,
+		"brand": "Honda",
+		"color": "black",
+		"age": 2001,
+		"amt": 2,
+		"type": "street",
+		"popular": "yes"
+	},
+	{  
+		"id": "el14",
+		"name": "Yamaha ZX 6r",
+		"img": "https://i.ibb.co/C9kmxbb/Kawasaki-ZX-6r.jpg",
+		"price": 7100,
+		"brand": "Yamaha",
+		"color": "green",
+		"age": 2004,
+		"amt": 16,
+		"type": "sport",
+		"popular": "no"
+
+	},
+	{    
+		"id": "el15",
+		"name": "Minsk 250",
+		"img": "https://i.ibb.co/ZVJBZBT/Minsk-250.jpg",
+		"price": 600,
+		"brand": "Minsk",
+		"color": "black",
+		"age": 2011,
+		"amt": 21,
+		"type": "sport",
+		"popular": "no"
+
+	},
+	{     
+		"id": "el16",
+		"name": "Minsk sbr 250",
+		"img": "https://i.ibb.co/1nK1dqz/Minsk-sbr-250.jpg",
+		"price": 300,
+		"brand": "Minsk",
+		"color": "black",
+		"age": 2012,
+		"amt": 22,
+		"type": "street",
+		"popular": "no"
+
+	}, 
+	{     
+		"id": "el17",
+		"name": "Planeta 5",
+		"img": "https://i.ibb.co/KyQh8XC/Planeta-5.jpg",
+		"price": 150,
+		"brand": "Minsk",
+		"color": "red",
+		"age": 1989,
+		"amt": 1,
+		"type": "street",
+		"popular": "no"
+
+	}, 
+	{     
+		"id": "el18",
+		"name": "Suzuki Boulevard M109r",
+		"img": "https://i.ibb.co/3hYypJ3/Suzuki-Boulevard-M109r.jpg",
+		"price": 300,
+		"brand": "Suzuki",
+		"color": "black",
+		"age": 2016,
+		"amt": 3,
+		"type": "chopper",
+		"popular": "no"
+
+	}, 
+	{     
+		"id": "el19",
+		"name": "Suzuki GSX R 7",
+		"img": "https://i.ibb.co/SrPfcsD/Suzuki-GSX-R-7.jpg",
+		"price": 13000,
+		"brand": "Suzuki",
+		"color": "black",
+		"age": 2021,
+		"amt": 5,
+		"type": "sport",
+		"popular": "no"
+
+	}, 
+	{     
+		"id": "el20",
+		"name": "Yamaha XVS 1100 A",
+		"img": "https://i.ibb.co/rvC0LBq/Yamaha-XVS-1100-A.jpg",
+		"price": 14880,
+		"brand": "Yamaha",
+		"color": "blue",
+		"age": 2002,
+		"amt": 11,
+		"type": "chopper",
+		"popular": "yes"
+
+	}, 
+	{     
+		"id": "el21",
+		"name": "Yamaha YZF R6",
+		"img": "https://i.ibb.co/z7HcJNb/Yamaha-YZF-R6.jpg",
+		"price": 22800,
+		"brand": "Yamaha",
+		"color": "blue",
+		"age": 2017,
+		"amt": 7,
+		"type": "sport",
+		"popular": "no"
+
+	}, 
+	{     
+		"id": "el22",
+		"name": "Yamaha MT 03",
+		"img": "https://i.ibb.co/NY6LxRC/Yamaha-MT-03.jpg",
+		"price": 7770,
+		"brand": "Yamaha",
+		"color": "black",
+		"age": 2019,
+		"amt": 6,
+		"type": "street",
+		"popular": "no"
+
+	}
+	
+
+
+]

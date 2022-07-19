@@ -1,0 +1,51 @@
+.button {
+	display: inline-block;	
+	box-sizing: border-box;
+	padding: 0 10px;
+	margin: 0 15px 15px 0;
+	outline: none;
+	border: none;  
+	border-radius: 4px;
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+	font-weight: 500;
+	text-decoration: none;
+	color: #fff;
+	background-color: #1a73e8;
+	position: relative;
+	overflow:hidden;
+	vertical-align: top;
+	cursor: pointer;
+	touch-action: manipulation; 
+	z-index: 1;
+}
+
+.button:hover {
+	box-shadow: 0 1px 2px 0 rgba(16, 28, 43, 0.45), 0 1px 3px 1px rgb(26 115 232 / 30%);
+	background-color: #8e88926c;
+}
+.button:active {
+	box-shadow: 0 1px 2px 0 rgb(26 115 232 / 45%), 0 2px 6px 2px rgb(26 115 232 / 30%);
+	background-color: #1a73e8 !important;
+}
+.button:focus-visible {
+	box-shadow: 0 0 0 3px lightskyblue;
+}
+.button:disabled {
+	pointer-events: none;
+	opacity: 0.65;
+}
+
+.black {
+	background-color: black;
+}
+.green {
+	background-color: green;
+}
+.red {
+	background-color: red;
+}
+.blue {
+	background-color: blue;
+}
