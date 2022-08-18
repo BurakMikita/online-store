@@ -34,7 +34,7 @@ class LocalStorageUtil {
         return [];
     }
     public putpopularValue(arr: Array<string>): void {
-        localStorage.setItem(this.popularValue, JSON.stringify(arr));
+        localStorage.setItem("popularValue", JSON.stringify(arr));
     }
     public gettypeValue(): Array<string> {
         const typeLocalStore = localStorage.getItem(this.typeValue);
@@ -44,7 +44,7 @@ class LocalStorageUtil {
         return [];
     }
     public puttypeValue(arr: Array<string>): void {
-        localStorage.setItem(this.typeValue, JSON.stringify(arr));
+        localStorage.setItem("typeValue", JSON.stringify(arr));
     }
     public getcolorValue(): Array<string> {
         const colorLocalStore = localStorage.getItem(this.colorValue);
@@ -54,7 +54,7 @@ class LocalStorageUtil {
         return [];
     }
     public putcolorValue(arr: Array<string>): void {
-        localStorage.setItem(this.colorValue, JSON.stringify(arr));
+        localStorage.setItem("colorValue", JSON.stringify(arr));
     }
     public getBrendValue(): Array<string> {
         const brendLocalStore = localStorage.getItem(this.brendValue);
@@ -64,7 +64,7 @@ class LocalStorageUtil {
         return [];
     }
     public putBrendValue(arr: Array<string>): void {
-        localStorage.setItem(this.brendValue, JSON.stringify(arr));
+        localStorage.setItem('brendValue', JSON.stringify(arr));
     }
     public getOld(): (string | number)[] {
         const oldLocalStore = localStorage.getItem(this.old);
